@@ -1,4 +1,6 @@
 # Climate  news Api
-## https://climatechangeapitest1234.herokuapp.com/
+## Ссылка на хостинг АПИ:  https://climatechangeapitest1234.herokuapp.com/
 
-### Node.js, express, axios, cheerio
+### Стек: Node.js, express, axios, cheerio
+
+#### Попытка сделать свой апи, с новостями о Изменении климата.
